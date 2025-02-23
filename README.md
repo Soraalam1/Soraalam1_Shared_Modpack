@@ -4,8 +4,8 @@ This is just a mirror of the mods selection I currently run on my switch, most o
 
 ## Prerequisites
 
-1. Install the latest [Atmosphere-NX release](https://github.com/Atmosphere-NX/Atmosphere/releases/) on your SD card.
-2. Install the latest [Arcropolis](https://github.com/Raytwo/ARCropolis/releases).
+1. Install the latest [Atmosphere-NX](https://github.com/Atmosphere-NX/Atmosphere/releases/) release on your SD card.
+2. Install the latest [Arcropolis](https://github.com/Raytwo/ARCropolis/releases) release.
 3. _(Optional)_ Set up FTP on your Switch to wirelessly transfer files. Here's a [video tutorial](https://youtu.be/sbXilm14lPw).
 4. Install [Git](https://gitforwindows.org/) if you don't already have it on your PC.
 5. Install [Git Large File Storage](https://git-lfs.com/) if you don't already have it on your PC.
