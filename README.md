@@ -9,6 +9,8 @@ This is just a mirror of the mods selection I currently run on my switch, most o
 3. _(Optional)_ Set up FTP on your Switch to wirelessly transfer files. Here's a [video tutorial](https://youtu.be/sbXilm14lPw).
 4. Install [Git](https://gitforwindows.org/) if you don't already have it on your PC.
 5. Install [Git Large File Storage](https://git-lfs.com/) if you don't already have it on your PC.
+6. Open any folder in Windows Explorer, right click and select either `Open in Terminal` or `Open Git Bash here`.
+7. When the Terminal Window opens, paste `git lfs install` and press enter. You should see a message that says `Git LFS initialized.` Feel free to close the Terminal.
 
 ## First Time Setup
 
