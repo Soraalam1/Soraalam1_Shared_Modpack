@@ -1,0 +1,10 @@
+display_name = "Dark Transparent Menu (Alpha Mode)"
+authors = "Omegah"
+version = "Final"
+description = """
+A mod that makes the Main Menu have a
+black backgrounds with transparent menu
+panels. Comes with a added Mod Manager
+Button. Enjoy!
+"""
+category = "Ui"
