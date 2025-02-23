@@ -1,6 +1,6 @@
 # Super Smash Bros. Ultimate Modpack
 
-This is just a mirror of the mods selection I currently run on my switch, most of which are downloaded from Gamebanana and a few worked on specifically by me and friends.
+This is just a mirror of the mods selection I currently run on my switch, most of which are made by talented creators on Gamebanana and a few worked on specifically by me and friends.
 
 ## Prerequisites
 
