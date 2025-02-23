@@ -18,14 +18,14 @@ This is just a mirror of the mods selection I currently run on my switch, most o
 2. Right click in Windows Explorer and click either `Open in Terminal` or `Open Git Bash here`.
 3. When the terminal opens, paste in `git clone https://github.com/Soraalam1/Soraalam1_Shared_Modpack.git` and click enter.
 4. It will copy the latest versions of all the mods to that folder in your PC. When it completes feel free to close the terminal.
-5. On your Switch's SD card, delete any existing version of the `ultimate` folder and `atmosphere/contents/01006A800016E000`.
+5. On your Switch's SD card, if you already have them, delete everything in the `ultimate` folder except for `TrainingModpack`, and delete `atmosphere/contents/01006A800016E000`.
 6. Copy everything inside of the `Soraalam1_Shared_Modpack` folder that appeared during the git clone on your PC and paste them into the root of your Switch's SD card.
 
 ## How to Update your Mods
 
 Now that you're set up and have the Git repository cloned, updating is easier.
 
-1. Open the folder Soraalam1_Shared_Modpack on your PC with Windows Explorer, right click and click either `Open in Terminal` or `Open Git Bash here`.
+1. Open the folder `Soraalam1_Shared_Modpack` on your PC with Windows Explorer, right click and click either `Open in Terminal` or `Open Git Bash here`.
 2. When the terminal opens, type `git pull` and press enter. If there are updates available you will see them be copied over now. Feel free to close the terminal after it completes.
-3. On your Switch's SD card, delete any existing version of the `ultimate` folder and `atmosphere/contents/01006A800016E000`.
+3. On your Switch's SD card, delete everything in the `ultimate` folder except for `TrainingModpack`, and delete `atmosphere/contents/01006A800016E000`.
 4. Copy everything inside of the `Soraalam1_Shared_Modpack` folder that you have on your PC and paste them into the root of your Switch's SD card.
