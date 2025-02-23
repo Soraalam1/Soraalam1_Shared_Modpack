@@ -1,0 +1,8 @@
+display_name="Rooftop Run - No Villagers"
+description="""
+Wifi safe!
+Removes villagers from Town and City
+"""
+version="1"
+category="Stage"
+authors="C#"

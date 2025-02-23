@@ -1,0 +1,17 @@
+------Materials------
+ghz_tn_woodswingpattern_001
+ghz_tn_cutlog_001
+ghz_tn_cutlog_003
+ghz_tn_swingjoint_001
+ghz_tn_swingjoint_002
+ghz_km_logbridge02
+ghz_tn_woodswingpattern_001_Alpha
+-------Textures-------
+ghz_tn1_woodswingpattern_001_dif
+ghz_tn1_cutlog_001_dif
+ghz_tn1_cutlog_003_dif
+ghz_tn1_swingjoint_001_dif
+ghz_tn1_swingjoint_002_dif
+ghz_obj_km1_logbridge02_dif
+/common/shader/sfxPBS/default_White
+----------------------

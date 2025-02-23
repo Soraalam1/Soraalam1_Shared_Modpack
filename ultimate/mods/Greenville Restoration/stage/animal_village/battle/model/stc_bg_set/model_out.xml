@@ -1,0 +1,4149 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MaterialLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <material name="SFX_PBS_0000000000098100_far" label="G_kabekusa04">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>OneMinusSourceAlpha</DestinationColor>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>6</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean2">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>kabeKusa04_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000098100_far" label="H_kabekusa04">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>OneMinusSourceAlpha</DestinationColor>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>6</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean2">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>kabeKusa03_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000098100_far" label="I_kabekusa03">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>OneMinusSourceAlpha</DestinationColor>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>6</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>0</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean2">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>kabeKusa02_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="KomonoA2">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>komonoA_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_00000000000c8100_opaque" label="TV">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>MirroredRepeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>tvsonic01_col</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_00000080090a8249_opaque" label="TV_ring">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean3">
+      <bool>true</bool>
+    </param>
+    <param name="CustomBoolean4">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>0.75</Y>
+        <Z>0</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>-1</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>-1</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>ClampToEdge</WrapS>
+        <WrapT>ClampToEdge</WrapT>
+        <WrapR>ClampToEdge</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>/common/shader/sfxpbs/default_white</Text>
+      </string>
+    </param>
+    <param name="Texture3">
+      <string>
+        <Text>/common/shader/sfxPBS/default_White</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>/common/shader/sfxPBS/default_Normal</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>/common/shader/sfxPBS/default_params_r100_g025_b100</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>sonic_greenhill_ibl_cube_specular</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_00000000000c8100_sort" label="TV_niddle">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector3">
+      <vector4>
+        <X>0.5</X>
+        <Y>0.5</Y>
+        <Z>0.5</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler5">
+      <sampler>
+        <WrapS>MirroredRepeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture5">
+      <string>
+        <Text>/common/shader/sfxPBS/default_Black</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="TV_niddle1">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>tv_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="blidge_far">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>komonoB_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_05_stg_ashiba_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="jimenkusa02_far_loop">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusa02_far_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="jimenkusa02_far_stg">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusa02_far_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="jimenkusa02_near">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>2</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusa02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="jimenkusa_03">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>2</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusa03_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="jimenkusa_04">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>2</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusa04_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_00000000080c8280_opaque" label="jimenkusa_alpha_loop_03">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>2</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusaAlpha02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_00000000080c8280_opaque" label="jimenkusa_alpha_loop_04">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>jimenKusaAlpha02_far_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="komonoA_far">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>komonoA_usume_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="komonoC_rock1">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>komonoC_col_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm02_midle">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1.647</X>
+        <Y>1.4048215</Y>
+        <Z>0.27669597</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm02_midle1">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1.647</X>
+        <Y>1.4048215</Y>
+        <Z>0.27669597</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm02_midle_leaf">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.7</X>
+        <Y>0.7</Y>
+        <Z>0.7</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm02_midle_leaf1">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.7</X>
+        <Y>0.7</Y>
+        <Z>0.7</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_far_01">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.45571443</X>
+        <Y>0.7</Y>
+        <Z>0.434</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>0.84042555</X>
+        <Y>0.84042555</Y>
+        <Z>0.84042555</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_far_02">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.754797</X>
+        <Y>0.809</Y>
+        <Z>0.7686206</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_far_03">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.45571443</X>
+        <Y>0.7</Y>
+        <Z>0.434</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>0.84042555</X>
+        <Y>0.84042555</Y>
+        <Z>0.84042555</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_leaves_light">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.68456</X>
+        <Y>1.2</Y>
+        <Z>0.2904</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_01_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_leaves_midle">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.47997242</X>
+        <Y>1</Y>
+        <Z>0.143</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_01_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_leaves_shadow">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.30978</X>
+        <Y>1.721</Y>
+        <Z>1.3446746</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_01_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_parts_01">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>2</X>
+        <Y>1.7988775</Y>
+        <Z>0.862</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_part_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="palm_parts_02">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>2.9</X>
+        <Y>2.9</Y>
+        <Z>2.9</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_part02_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="totem">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>2</X>
+        <Y>1.6832267</Y>
+        <Z>1.2</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>palm_01_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_06_stg_optionalparts_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000008000808089_opaque" label="wall_02">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>ClampToEdge</WrapS>
+        <WrapT>ClampToEdge</WrapT>
+        <WrapR>ClampToEdge</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_02_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>wall_04_up_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>wall_04_col</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>sonic_greenhill_ibl_cube_specular</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000008000808089_opaque" label="wall_03">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean1">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler4">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler6">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler7">
+      <sampler>
+        <WrapS>ClampToEdge</WrapS>
+        <WrapT>ClampToEdge</WrapT>
+        <WrapR>ClampToEdge</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_03_col</Text>
+      </string>
+    </param>
+    <param name="Texture4">
+      <string>
+        <Text>wall_03_up_col</Text>
+      </string>
+    </param>
+    <param name="Texture6">
+      <string>
+        <Text>wall_03_light_col</Text>
+      </string>
+    </param>
+    <param name="Texture7">
+      <string>
+        <Text>sonic_greenhill_ibl_cube_specular</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="wall_03_light">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1.2</X>
+        <Y>1.2</Y>
+        <Z>1.2</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>2</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_03_light_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000008088280_opaque" label="wall_03_up">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>0.7</X>
+        <Y>0.7</Y>
+        <Z>0.7</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_03_up_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="wall_03_up_edge">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>true</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_03_up_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_01_loop_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="wall_04">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>0.9302472</Y>
+        <Z>0.922</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_04_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+  <material name="SFX_PBS_0000000000088280_opaque" label="wall_04_up">
+    <param name="BlendState0">
+      <blend_state>
+        <SourceColor>One</SourceColor>
+        <Unk2>0</Unk2>
+        <DestinationColor>Zero</DestinationColor>
+        <Unk4>1</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>0</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+        <Unk9>0</Unk9>
+        <Unk10>5</Unk10>
+        <Unk11>0</Unk11>
+        <Unk12>0</Unk12>
+      </blend_state>
+    </param>
+    <param name="CustomBoolean12">
+      <bool>false</bool>
+    </param>
+    <param name="CustomVector13">
+      <vector4>
+        <X>1.05</X>
+        <Y>1.05</Y>
+        <Z>1.05</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="CustomVector27">
+      <vector4>
+        <X>1</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </vector4>
+    </param>
+    <param name="CustomVector8">
+      <vector4>
+        <X>1</X>
+        <Y>1</Y>
+        <Z>1</Z>
+        <W>1</W>
+      </vector4>
+    </param>
+    <param name="RasterizerState0">
+      <rasterizer_state>
+        <FillMode>Solid</FillMode>
+        <CullMode>Back</CullMode>
+        <DepthBias>0</DepthBias>
+        <Unk4>0</Unk4>
+        <Unk5>0</Unk5>
+        <Unk6>16777217</Unk6>
+        <Unk7>0</Unk7>
+        <Unk8>0</Unk8>
+      </rasterizer_state>
+    </param>
+    <param name="Sampler0">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Sampler9">
+      <sampler>
+        <WrapS>Repeat</WrapS>
+        <WrapT>Repeat</WrapT>
+        <WrapR>Repeat</WrapR>
+        <MinFilter>LinearMipmapLinear</MinFilter>
+        <MagFilter>Linear</MagFilter>
+        <TextureFilteringType>Default2</TextureFilteringType>
+        <BorderColor>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </BorderColor>
+        <Unk11>0</Unk11>
+        <Unk12>2139095022</Unk12>
+        <LodBias>0</LodBias>
+        <MaxAnisotropy>2</MaxAnisotropy>
+      </sampler>
+    </param>
+    <param name="Texture0">
+      <string>
+        <Text>wall_04_up_col</Text>
+      </string>
+    </param>
+    <param name="Texture9">
+      <string>
+        <Text>bake_04_stg_far_ind_lit</Text>
+      </string>
+    </param>
+  </material>
+</MaterialLibrary>

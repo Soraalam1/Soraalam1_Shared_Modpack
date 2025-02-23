@@ -1,0 +1,16 @@
+{
+  "new-dir-files": {
+    "stage/bayo_clock/battle/model/stc_far_set": [
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_b_con.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_far_con.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_horizon_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_sky_cloud_b_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_sky_smoke_a_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_tree_a_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_tree_b_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_tree_c_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_tree_d_col.nutexb",
+      "stage/bayo_clock/battle/model/stc_far_set/dm_mts_water_fall_col.nutexb"
+    ]
+  }
+}

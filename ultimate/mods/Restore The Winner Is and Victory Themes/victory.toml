@@ -1,0 +1,15 @@
+[bgm_zz08_f_trail]
+costume_0 = 0
+costume_1 = 1
+costume_2 = 2
+costume_3 = 3
+costume_4 = 4
+costume_5 = 1
+costume_6 = 1
+costume_7 = 3
+
+[bgm_z85_f_cloud]
+costume_7 = 7
+
+[bgm_z47_f_sonic]
+costume_2 = 1

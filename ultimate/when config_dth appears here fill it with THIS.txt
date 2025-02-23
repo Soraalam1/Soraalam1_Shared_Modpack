@@ -1,0 +1,14 @@
+[hazards_off_override]
+normal = true
+battle = true
+end = true
+
+[default_location]
+normal = "Hollow Bastion"
+battle = "Hollow Bastion"
+end = "Hollow Bastion"
+
+[default_station]
+normal = "Random"
+battle = "Random"
+end = "Random"

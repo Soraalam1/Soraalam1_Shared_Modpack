@@ -1,0 +1,224 @@
+{
+	"share-to-vanilla": {
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/metamon_model.numatb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/metamon_model.numatb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.nuhlpb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nuhlpb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.numatb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.numatb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.numdlb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.numdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.nusktb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nusktb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.nusrcmdlb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nusrcmdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudkyogiristroke/c00/model.xmb": [
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.xmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/ef_cloud_limitgauge00.nutexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/ef_cloud_limitgauge00.nutexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/ef_cloud_limitwindow00.nutexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/ef_cloud_limitwindow00.nutexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.nuanmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nuanmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.nuhlpb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nuhlpb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.numatb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numatb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.numdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.numshb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numshb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.numshexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numshexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.nusktb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nusktb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.nusrcmdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nusrcmdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgauge/c00/model.xmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.xmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/ef_cloud_cursor00.nutexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/ef_cloud_cursor00.nutexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.nuanmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nuanmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.nuhlpb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nuhlpb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.numatb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numatb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.numdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.numshb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numshb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.numshexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numshexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.nusktb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nusktb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.nusrcmdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nusrcmdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugecursor/c00/model.xmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.xmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/ef_cloud_limitgauge01.nutexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/ef_cloud_limitgauge01.nutexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/ef_cloud_limitwindow00.nutexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/ef_cloud_limitwindow00.nutexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.nuanmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nuanmb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.nuhlpb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nuhlpb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.numatb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numatb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.numdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.numshb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numshb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.numshexb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numshexb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.nusktb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nusktb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.nusrcmdlb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nusrcmdlb"
+		],
+		"effect/fighter/cloud/model/m_cloudlimitgaugemax/c00/model.xmb": [
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.xmb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword1.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword1_blue.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_blue.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword1_purple.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_purple.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword1_red.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_red.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword1_yellow.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_yellow.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword2.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword2.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword3.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword3.nutexb"
+		],
+		"effect/fighter/cloud/trail/tex_cloud_sword4.nutexb": [
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword4.nutexb"
+		]
+	},
+	"new-dir-files": {
+		"fighter/cloud/c07": [
+			"effect/fighter/cloud/ef_cloud_c07.eff",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/metamon_model.numatb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nuhlpb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.numatb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.numdlb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nusktb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.nusrcmdlb",
+			"effect/fighter/cloud/model/m_cloudkyogiristroke_c07/c00/model.xmb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/ef_cloud_limitgauge00.nutexb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/ef_cloud_limitwindow00.nutexb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nuanmb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nuhlpb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numatb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numshb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.numshexb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nusktb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.nusrcmdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgauge_c07/c00/model.xmb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/ef_cloud_cursor00.nutexb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nuanmb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nuhlpb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numatb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numshb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.numshexb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nusktb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.nusrcmdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugecursor_c07/c00/model.xmb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/ef_cloud_limitgauge01.nutexb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/ef_cloud_limitwindow00.nutexb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nuanmb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nuhlpb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numatb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numshb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.numshexb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nusktb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.nusrcmdlb",
+			"effect/fighter/cloud/model/m_cloudlimitgaugemax_c07/c00/model.xmb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_blue.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_purple.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_red.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword1_yellow.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword2.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword3.nutexb",
+			"effect/fighter/cloud/trail_c07/tex_cloud_sword4.nutexb",
+			"fighter/cloud/model/body/c07/alp_cloud_003_4_prm.nutexb",
+			"fighter/cloud/model/body/c07/alp_cloud_003_col.nutexb",
+			"fighter/cloud/model/body/c07/alp_cloud_003_nor.nutexb",
+			"fighter/cloud/model/body/c07/alp_cloud_004_col.nutexb",
+			"fighter/cloud/model/body/c07/alp_cloud_004_nor.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_004_col.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_004_nor.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_004_prm.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_005_col.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_005_nor.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_005_prm.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_006_col.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_006_nor.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_006_prm.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_007_col.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_007_nor.nutexb",
+			"fighter/cloud/model/body/c07/def_cloud_007_prm.nutexb",
+			"fighter/cloud/model/body/c07/model.adjb",
+			"fighter/cloud/model/body/c07/model.nuhlpb.json",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_006_col.nutexb",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_006_nor.nutexb",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_006_prm.nutexb",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_007_col.nutexb",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_007_nor.nutexb",
+			"fighter/cloud/model/fusionsword/c07/def_cloud_007_prm.nutexb",
+			"fighter/cloud/model/fusionsword/c07/model.nuhlpb.json",
+			"fighter/cloud/motion/body/c07/j02lose.nuanmb"
+		]
+	}
+}

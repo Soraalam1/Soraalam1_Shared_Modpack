@@ -1,0 +1,10 @@
+display_name = "Modern Sonic"
+authors = "SoniDelta"
+version = "5.1"
+description = """
+Sonic's model from Sonic Unleashed ported to Smash Bros. Ultimate!
+Includes the model, renders, and a voice pack.
+His alts for now are his traditional shoes, and the Soap Shoes (2G Hi-speed Shoes) from Sonic Frontiers!
+Also included is Super Sonic (both Modern and Adventure quills) with added glowing animations, and the long-awaited new alt, Hyper Sonic!
+"""
+category = "Fighter"

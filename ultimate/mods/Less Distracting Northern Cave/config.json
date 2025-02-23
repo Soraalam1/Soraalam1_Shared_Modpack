@@ -1,0 +1,14 @@
+{
+  "new-dir-files": {
+    "stage/ff_cave/battle/model/cave_low_set": [
+      "stage/ff_cave/battle/model/cave_low_set/def_cloud_004_col.nutexb",
+      "stage/ff_cave/battle/model/cave_low_set/def_cloud_004_nor.nutexb",
+      "stage/ff_cave/battle/model/cave_low_set/def_cloud_004_prm.nutexb"
+    ],
+    "stage/ff_cave/normal/model/cave_low_set": [
+      "stage/ff_cave/normal/model/cave_low_set/def_cloud_004_col.nutexb",
+      "stage/ff_cave/normal/model/cave_low_set/def_cloud_004_nor.nutexb",
+      "stage/ff_cave/normal/model/cave_low_set/def_cloud_004_prm.nutexb"
+    ]
+  }
+}

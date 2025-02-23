@@ -1,0 +1,16 @@
+{
+    "new-dir-infos": [],
+    "new-dir-infos-base": {},
+    "share-to-vanilla": {},
+    "share-to-added": {},
+    "new-dir-files": {
+        "fighter/trail/c06": [
+            "fighter/trail/model/body/c06/def_trail2_001_col.nutexb",
+            "fighter/trail/model/body/c06/def_trail2_001_nor.nutexb",
+            "fighter/trail/model/body/c06/def_trail2_001_prm.nutexb",
+            "fighter/trail/model/body/c06/skin_trail_001_col.nutexb",
+            "fighter/trail/model/body/c06/skin_trail_001_nor.nutexb",
+            "fighter/trail/model/body/c06/skin_trail_001_prm.nutexb"
+        ]
+    }
+}

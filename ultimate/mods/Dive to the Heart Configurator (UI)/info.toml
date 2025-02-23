@@ -1,0 +1,11 @@
+display_name = "Dive to the Heart Configurator"
+authors = "ThatNintendoNerd"
+version = "2.0.0"
+description = """
+Explore newfound luxuries that allow you to configure the behavior of Dive to the Heart on the Hollow Bastion stage!
+
+Access Dive to the Heart with stage hazards disabled, start the stage on Dive to the Heart, select a stained-glass design of your choice, and more!
+
+This is the core package of the mod.
+"""
+category = "Stage"

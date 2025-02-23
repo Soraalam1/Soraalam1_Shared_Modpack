@@ -1,0 +1,3 @@
+vc_narration_characall_cloud_article_c04 - 0x289BAE163C
+vc_narration_characall_zack - 0x1B65BE2959
+vc_narration_characall_cloud_article_c07 - 0x2802A74786

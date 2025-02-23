@@ -1,0 +1,31 @@
+{
+    "new-dir-infos": [],
+    "new-dir-infos-base": {},
+    "share-to-vanilla": {},
+    "share-to-added": {},
+    "new-dir-files": {
+        "fighter/trail/c05": [
+            "fighter/trail/model/body/c05/alp_trail_001_col.nutexb",
+            "fighter/trail/model/body/c05/alp_trail_001_nor.nutexb",
+            "fighter/trail/model/body/c05/alp_trail_001_prm.nutexb",
+            "fighter/trail/model/body/c05/alp_trail_003_col.nutexb",
+            "fighter/trail/model/body/c05/alp_trail_003_nor.nutexb",
+            "fighter/trail/model/body/c05/alp_trail_003_prm.nutexb",
+            "fighter/trail/model/body/c05/def_trail2_001_col.nutexb",
+            "fighter/trail/model/body/c05/def_trail2_001_nor.nutexb",
+            "fighter/trail/model/body/c05/def_trail2_001_prm.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_b_col.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_b_r_col.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_g_col.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_w_col.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_w_nor.nutexb",
+            "fighter/trail/model/body/c05/eye_trail_w_prm.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_003_col.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_003_nor.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_003_prm.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_004_col.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_004_nor.nutexb",
+            "fighter/trail/model/body/c05/skin_trail_004_prm.nutexb"
+        ]
+    }
+}
