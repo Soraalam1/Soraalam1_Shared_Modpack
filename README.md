@@ -16,7 +16,7 @@ This is just a mirror of the mods selection I currently run on my switch, most o
 
 1. Open Windows Explorer on your PC and go to a directory where you would want to save these mods.
 2. Right click in Windows Explorer and click either `Open in Terminal` or `Open Git Bash here`.
-3. When the terminal opens, paste in `git clone https://github.com/Soraalam1/Soraalam1_Shared_Modpack.git` and click enter.
+3. When the terminal opens, paste in `git clone https://github.com/Soraalam1/Soraalam1_Shared_Modpack.git` and press enter.
 4. It will copy the latest versions of all the mods to that folder in your PC. When it completes feel free to close the terminal.
 5. On your Switch's SD card, if you already have them, delete everything in the `ultimate` folder except for `TrainingModpack`, and delete `atmosphere/contents/01006A800016E000`.
 6. Copy everything inside of the `Soraalam1_Shared_Modpack` folder that appeared during the `git clone` on your PC and paste them into the root of your Switch's SD card.
