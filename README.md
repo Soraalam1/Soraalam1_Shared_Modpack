@@ -7,16 +7,17 @@ This is just a mirror of the mods selection I currently run on my switch, most o
 1. Install the latest [Atmosphere-NX release](https://github.com/Atmosphere-NX/Atmosphere/releases/) on your SD card.
 2. Install the latest [Arcropolis](https://github.com/Raytwo/ARCropolis/releases).
 3. _(Optional)_ Set up FTP on your Switch to wirelessly transfer files. Here's a [video tutorial](https://youtu.be/sbXilm14lPw).
+4. Install [Git](https://gitforwindows.org/) if you don't already have it on your PC.
+5. Install [Git Large File Storage](https://git-lfs.com/) if you don't already have it on your PC.
 
 ## First Time Setup
 
-1. Install [Git](https://gitforwindows.org/) if you don't already have it on your PC.
-2. Open Windows Explorer on your PC and go to a directory where you would want to save these mods.
-3. Right click in Windows Explorer and click either `Open in Terminal` or `Open Git Bash here`.
-4. When the terminal opens, paste in `git clone https://github.com/Soraalam1/Soraalam1_Shared_Modpack.git` and click enter.
-5. It will copy the latest versions of all the mods to that folder in your PC. When it completes feel free to close the terminal.
-6. On your Switch's SD card, delete any existing version of the `ultimate` folder and `atmosphere/contents/01006A800016E000`.
-7. Copy everything inside of the `Soraalam1_Shared_Modpack` folder that appeared during the git clone on your PC and paste them into the root of your Switch's SD card.
+1. Open Windows Explorer on your PC and go to a directory where you would want to save these mods.
+2. Right click in Windows Explorer and click either `Open in Terminal` or `Open Git Bash here`.
+3. When the terminal opens, paste in `git clone https://github.com/Soraalam1/Soraalam1_Shared_Modpack.git` and click enter.
+4. It will copy the latest versions of all the mods to that folder in your PC. When it completes feel free to close the terminal.
+5. On your Switch's SD card, delete any existing version of the `ultimate` folder and `atmosphere/contents/01006A800016E000`.
+6. Copy everything inside of the `Soraalam1_Shared_Modpack` folder that appeared during the git clone on your PC and paste them into the root of your Switch's SD card.
 
 ## How to Update your Mods
 
